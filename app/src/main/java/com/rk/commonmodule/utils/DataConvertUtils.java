@@ -1,4 +1,4 @@
-package com.rk.commonmodule.Utils;
+package com.rk.commonmodule.utils;
 
 import android.util.Log;
 
