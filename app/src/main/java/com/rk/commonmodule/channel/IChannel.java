@@ -1,4 +1,4 @@
-package com.rk.commonmodule.com.rk.commonmodule.channel;
+package com.rk.commonmodule.channel;
 
 public interface IChannel {
     int channelOpen(int flag);
